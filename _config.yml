@@ -1,23 +1,23 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: http://ww4.sinaimg.cn/small/65dc76a3jw8exkme9y57dj20yi0ymabn.jpg
 # author name
-author: fi3ework
+author: 唐巧
 # signature
-signature: witness me
+signature: 一个中年程序员，正在努力学习做业务
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: tangqiaoboy@gmail.com
+  github: //github.com/tangqiaoboy
   # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
+  weibo: https://weibo.com/tangqiaoboy
+  wechat: /images/weixin-qr.jpg
   qq: 
   telegram: 
-  weibo: 
   zhihu: 
   douban: 
   facebook: 
-  twitter: 
+  twitter:
   instagram: 
   stack-overflow: 
   segmentFault: 
@@ -27,28 +27,25 @@ social:
   linkedin: 
   steam: 
   others: 
-  rss: 
+  rss: /atom.xml
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
-  friendC: 
 about:
   enable: true
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: 唐巧的博客
 # keywords for site (good for SEO)
 SEO_keywords:
-  - hexo
-  - 'hexo-theme'
-  - 'hexo-blog'
+  - 唐巧
+  - iOS
+  - 创业
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: 唐巧的博客
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: 记录下自己学习的点滴
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
@@ -102,19 +99,19 @@ CNZZ_analytics:
 
 # ========== Others ========== #
 # favicon
-favicon: /assets/favicon.ico
+favicon: /assets/favicon-32x32.png
 # truncate length of abstracts in index page (the default is 300, there will be no abstruct if you input 0)
-truncate_length: 
+truncate_length: 100
 # enable toc
 toc: true
 # word count & reading time
 reading_info: true
 # intro height (the default is 50 percents of the screen, you can input other number)
-index_intro_height: 50
-post_intro_height: 50
-about_intro_height: 50
+index_intro_height: 30
+post_intro_height: 40
+about_intro_height: 30
 # copyright
 copyright:
   enable: true
   # https://creativecommons.org/
-  license: '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
+  license: '本文采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Crative Commons 4.0 许可协议</a>进行许可'
